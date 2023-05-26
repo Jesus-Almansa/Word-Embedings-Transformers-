@@ -1,4 +1,5 @@
 *.doc
 *.docx
 __pycache__
- *. pyc
+*. pyc
+*.pdf
